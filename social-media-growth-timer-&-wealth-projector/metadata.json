@@ -1,0 +1,6 @@
+
+{
+  "name": "Social Media Growth Timer & Wealth Projector",
+  "description": "An application with 12 countdown timers for social media management tasks. It calculates potential earnings based on time spent and projects future wealth using compound interest.",
+  "requestFramePermissions": []
+}
